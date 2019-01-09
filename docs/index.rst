@@ -17,3 +17,10 @@ What are the prerequisites for this Databricks Course?
 - Azure/AWS (S3, Redshift, Azure Blob Storage, Azure Data Lake Storage, Azure SQL Data warehouse) Hadoop/Hive
 
 - Optional: (Airflow, Docker, Datawarehouse concepts)
+
+
+
+.. toctree::
+   :maxdepth: 2
+   
+   curriculum
