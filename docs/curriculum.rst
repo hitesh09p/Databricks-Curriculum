@@ -27,7 +27,7 @@ PART - I
 +       + Assignment-2 : Launch Azure Databricks workspace +          +
 |       |                                                  |          |
 +-------+--------------------------------------------------+----------+
-| Day 2 | - Clusters:                                      | 2Hrs     |
+| Day 2 | Clusters:                                        | 2Hrs     |
 +       +                                                  +          +
 |       | 1. Display clusters                              |          |
 |       |                                                  |          |
@@ -77,8 +77,9 @@ PART - I
 |       | Assignment-4 : Set cluster Autoscaling           |          |
 +       +                                                  +          +
 |       | Assignment-5 : Set Spark configuration to cluster|          |
+|       |                                                  |          |
 +-------+--------------------------------------------------+----------+
-| Day 3 | - Workspace:                                     | 2.5Hrs   |
+| Day 3 | Workspace:                                       | 2.5Hrs   |
 |       |                                                  |          |
 +       + 1. Folders                                       +          +
 |       |                                                  |          |
@@ -87,7 +88,7 @@ PART - I
 |       | 3. Search the Workspace                          |          |
 |       |                                                  |          |
 +       +                                                  +          +
-|       | - Notebooks:                                     |          |
+|       | Notebooks:                                       |          |
 |       |                                                  |          |
 +       + 1. Managing Notebooks                            +          +
 |       |                                                  |          |
@@ -105,7 +106,7 @@ PART - I
 |       | Assignment-2 : Create notebook for ‘Hello World’ |          |
 |       | python code and run.                             |          |
 +-------+--------------------------------------------------+----------+
-| Day 4 | - Accessing data:                                  | 2Hrs     |
+| Day 4 | Accessing data:                                  | 2Hrs     |
 |       |                                                  |          |
 +       + 1. Import data                                   +          +
 |       |                                                  |          |
@@ -128,7 +129,7 @@ PART - I
 |       | Assignment-3:For given file get the all          |          |
 |       | Employee details having salary more than $50000  |          |
 +-------+--------------------------------------------------+----------+
-| Day 5 | - Databases & Tables:                            | 2.5Hrs   |
+| Day 5 | Databases & Tables:                              | 2.5Hrs   |
 |       |                                                  |          |
 +       + 1. View databases and tables                     +          +
 |       |                                                  |          |
@@ -152,8 +153,9 @@ PART - I
 |       | provided file                                    |          |
 +       +                                                  +          +
 |       | Assignment-2 : Update/Delete table               |          |
+|       |                                                  |          |
 +-------+--------------------------------------------------+----------+
-| Day 6 | - Libraries:                                     | 3Hrs     |
+| Day 6 | Libraries:                                       | 3Hrs     |
 |       |                                                  |          |
 +       + 1. Library lifecycle                             +          +
 |       |                                                  |          |
@@ -180,7 +182,7 @@ PART - I
 |       | Assignment-2 : pload  python package library     |          |
 |       | (pandas, fuzzywuzzy  etc), try to consume in code|          |
 +-------+--------------------------------------------------+----------+
-| Day 7 | - Databricks Configuration:                      | 3Hrs     |
+| Day 7 | Databricks Configuration:                        | 3Hrs     |
 |       |                                                  |          |
 +       + 1. Configure the cluster                         +          +
 |       |                                                  |          |
@@ -188,7 +190,7 @@ PART - I
 +       +                                                  +          +
 |       | 3. Cluster Scale                                 |          |
 +       +                                                  +          +
-|       | - Security-Manage Access Control:                |          |
+|       |  Security-Manage Access Control:                 |          |
 |       |                                                  |          |
 +       + 1. Workspace Access Control                      +          +
 |       |                                                  |          |
@@ -212,7 +214,7 @@ PART - I
 |       | Assignment-4 : enable token-based authentication |          |
 |       |                                                  |          |
 +-------+--------------------------------------------------+----------+
-| Day 8 | - Jobs:                                          | 3Hrs     |
+| Day 8 | Jobs:                                            | 3Hrs     |
 |       |                                                  |          |
 +       + 1. View Jobs                                     +          +
 |       |                                                  |          |
@@ -234,7 +236,7 @@ PART - I
 |       |                                                  |          |
 +       + 10. Job options                                  +          +
 |       |                                                  |          |
-+       + - Visualizations:                                +          +
++       + Visualizations:                                  +          +
 |       |                                                  |          |
 +       + 1. Display function                              +          +
 |       |                                                  |          |
@@ -259,7 +261,7 @@ PART - I
 +-------+--------------------------------------------------+----------+
 | Day 9 | Databricks CLI integration                       | 3Hrs     |
 +-------+--------------------------------------------------+----------+
-|       | - Connecting Business Intelligence Tools:        |          |
+|       | Connecting Business Intelligence Tools:          |          |
 |       |                                                  |          |
 +       + 1. Connecting BI Tools                           +          +
 |       |                                                  |          |
@@ -270,7 +272,7 @@ PART - I
 +       + 4. SQL Workbench                                 +          +
 |       |                                                  |          |
 +-------+--------------------------------------------------+----------+
-| Day 10| - Use Cases - I                                  | 2Hrs     |
+| Day 10| Use Cases - I                                    | 2Hrs     |
 +       +                                                  +          +
 |       | 1. Sending Email from databricks notebook        |          |
 +       +                                                  +          +
@@ -282,7 +284,7 @@ PART - I
 +       +                                                  +          +
 |       | 5. SAS Connectivity                              |          |
 +-------+--------------------------------------------------+----------+
-| Day 11| - Use Cases - II                                 | 3Hrs     |
+| Day 11| Use Cases - II                                   | 3Hrs     |
 +       +                                                  +          +
 |       | 1. Databrick to AWS + Azure plugin               |          |
 |       |                                                  |          |
@@ -290,14 +292,14 @@ PART - I
 |       |                                                  |          |
 |       | 3. Databricks to Redshift                        |          |
 +-------+--------------------------------------------------+----------+
-| Day 12| - Use Cases - III                                | 3Hrs     |
+| Day 12| Use Cases - III                                  | 3Hrs     |
 +       +                                                  +          +
 |       | 1. Streaming data                                |          |
 |       |                                                  |          |
 +       + 2. How to set up kafka on Databricks             +          +
 |       |                                                  |          |
 +-------+--------------------------------------------------+----------+
-| Day 13| - Use Cases - IV                                 |          |
+| Day 13| Use Cases - IV                                   |          |
 +       +                                                  +          +
 |       | 1. Accelerate ETL                                |          |
 +       +                                                  +          +
