@@ -190,7 +190,7 @@ PART - I
 +       +                                                  +          +
 |       | 3. Cluster Scale                                 |          |
 +       +                                                  +          +
-|       |  Security-Manage Access Control:                 |          |
+|       | Security-Manage Access Control:                  |          |
 |       |                                                  |          |
 +       + 1. Workspace Access Control                      +          +
 |       |                                                  |          |
@@ -259,14 +259,22 @@ PART - I
 |       | Assignment-3 :create different visualizations for|          |
 |       | given scala/python/SQL/R notebooks.              |          |
 +-------+--------------------------------------------------+----------+
-| Day 9 | REST API :                                       | 3Hrs     |
+| Day 9 | Version Control :                                | 1Hrs     |
++       +                                                  +          +
+|       | 1. Github Integration with Databricks notebook   |          |
+|       |                                                  |          |
++-------+--------------------------------------------------+----------+
+|       | Assingment-1 : Bitbucket Integration with        |          |
+|       | Databricks notebook                              |          |
++-------+--------------------------------------------------+----------+
+| Day 10| REST API :                                       | 1.5Hrs   |
 +       +                                                  +          +
 |       | 1. DBFS API                                      |          |
 |       |                                                  |          |
 +       + 2. Clusters API                                  +          +
 |       |                                                  |          |
 +-------+--------------------------------------------------+----------+
-| Day 10| Use Cases - I                                    | 2Hrs     |
+| Day 11| Use Cases - I                                    | 2Hrs     |
 +       +                                                  +          +
 |       | Connecting Business Intelligence Tools::         |          |
 +       +                                                  +          +
@@ -275,19 +283,19 @@ PART - I
 |       | 2. Tableau / Power BI                            |          |
 |       |                                                  |          |
 +-------+--------------------------------------------------+----------+
-| Day 11| Use Cases - II                                   | 3Hrs     |
+| Day 12| Use Cases - II                                   | 2Hrs     |
 +       +                                                  +          +
 |       | 1. Read/Write files to Azure/AWS storage         |          |
 |       |                                                  |          |
 +       + 2. Connecting to SQL Databases using JDBC        +          +
 |       |                                                  |          |
 +-------+--------------------------------------------------+----------+
-| Day 12| Use Cases - III                                  | 3Hrs     |
+| Day 13| Use Cases - III                                  | 2Hrs     |
 +       +                                                  +          +
 |       | ETL Process                                      |          |
 |       |                                                  |          |
 +-------+--------------------------------------------------+----------+
-| Day 13| Use Cases - IV                                   |          |
+| Day 14| Use Cases - IV                                   |          |
 +       +                                                  +          +
 |       | Databricks CLI integration                       |          |
 +-------+--------------------------------------------------+----------+
