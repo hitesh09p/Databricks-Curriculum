@@ -10,22 +10,22 @@ PART - I
 |       |                                                  |          |
 +=======+==================================================+==========+
 | Day 1 | Introduction to Databricks                       | 2Hrs     |
-+-------+--------------------------------------------------+----------+
-|       | Databricks login:                                |          |
-|       |                                                  |          |
-+       + 1.Sign up for Azure free Trial                   +          +
-|       |                                                  |          |
-|       | 2.Create an Azure Databricks workspace           |          |
 +       +                                                  +          +
-|       | 3.Launch the workspace                           |          |
+|       | Databricks login:                                |          |
++       +                                                  +          +
+|       | 1. Sign up for Azure free Trial                  |          |
 |       |                                                  |          |
-+       + 4.Introduction to Databricks UI                  +          +
++       + 2. Create an Azure Databricks workspace          +          +
 |       |                                                  |          |
+|       | 3. Launch the workspace                          |          |
++       +                                                  +          +
+|       | 4. Introduction to Databricks UI                 |          |
 |       |                                                  |          |
 +-------+--------------------------------------------------+----------+
-|       | Assignment-1 : Create your Own Azure Account     |          |  
-+-------+--------------------------------------------------+----------+
-|       | Assignment-2 : Launch Azure Databricks workspace |          |
+|       | Assignment-1 : Create your Own Azure Account     |          |
+|       |                                                  |          |
++       + Assignment-2 : Launch Azure Databricks workspace +          +
+|       |                                                  |          |
 +-------+--------------------------------------------------+----------+
 | Day 2 | Clusters:                                        | 2Hrs     |
 +       +                                                  +          +
