@@ -123,10 +123,10 @@ PART - I
 +-------+--------------------------------------------------+----------+
 |       | Assignment-1:Write sample code to read given file|          |
 +       +                                                  +          +
-|       | Assignment-2:Write code to Update/delete the     |          |
-|       |  given file data                                 |          |
+|       | Assignment-2:Write code to Update / delete the   |          |
+|       | given file data                                  |          |
 +       +                                                  +          +
-|       | Assignment-3:For given file get the all          |          |
+|       | Assignment-3: For given file get the all         |          |
 |       | Employee details having salary more than $50000  |          |
 +-------+--------------------------------------------------+----------+
 | Day 5 | Databases & Tables:                              | 2.5Hrs   |
@@ -259,49 +259,35 @@ PART - I
 |       | Assignment-3 :create different visualizations for|          |
 |       | given scala/python/SQL/R notebooks.              |          |
 +-------+--------------------------------------------------+----------+
-| Day 9 | Databricks CLI integration                       | 3Hrs     |
-+-------+--------------------------------------------------+----------+
-|       | Connecting Business Intelligence Tools:          |          |
-|       |                                                  |          |
-+       + 1. Connecting BI Tools                           +          +
-|       |                                                  |          |
-|       | 2. Tableau                                       |          |
+| Day 9 | REST API :                                       | 3Hrs     |
 +       +                                                  +          +
-|       | 3. Power BI                                      |          |
+|       | 1. DBFS API                                      |          |
 |       |                                                  |          |
-+       + 4. SQL Workbench                                 +          +
++       + 2. Clusters API                                  +          +
 |       |                                                  |          |
 +-------+--------------------------------------------------+----------+
 | Day 10| Use Cases - I                                    | 2Hrs     |
 +       +                                                  +          +
-|       | 1. Sending Email from databricks notebook        |          |
+|       | Connecting Business Intelligence Tools::         |          |
 +       +                                                  +          +
-|       | 2. External metadata                             |          |
+|       | 1. SQL Workbench                                 |          |
 +       +                                                  +          +
-|       | 3. JDBC connectivity                             |          |
-+       +                                                  +          +
-|       | 4. Table access data                             |          |
-+       +                                                  +          +
-|       | 5. SAS Connectivity                              |          |
+|       | 2. Tableau / Power BI                            |          |
+|       |                                                  |          |
 +-------+--------------------------------------------------+----------+
 | Day 11| Use Cases - II                                   | 3Hrs     |
 +       +                                                  +          +
-|       | 1. Databrick to AWS + Azure plugin               |          |
+|       | 1. Read/Write files to Azure/AWS storage         |          |
 |       |                                                  |          |
-+       + 2. Read & Write file to AWS                      +          +
++       + 2. Connecting to SQL Databases using JDBC        +          +
 |       |                                                  |          |
-|       | 3. Databricks to Redshift                        |          |
 +-------+--------------------------------------------------+----------+
 | Day 12| Use Cases - III                                  | 3Hrs     |
 +       +                                                  +          +
-|       | 1. Streaming data                                |          |
-|       |                                                  |          |
-+       + 2. How to set up kafka on Databricks             +          +
+|       | ETL Process                                      |          |
 |       |                                                  |          |
 +-------+--------------------------------------------------+----------+
 | Day 13| Use Cases - IV                                   |          |
 +       +                                                  +          +
-|       | 1. Accelerate ETL                                |          |
-+       +                                                  +          +
-|       | 2. SCD Type 2                                    |          |
+|       | Databricks CLI integration                       |          |
 +-------+--------------------------------------------------+----------+
