@@ -11,7 +11,7 @@ PART - I
 +=======+==================================================+==========+
 | Day 1 | Introduction to Databricks                       | 2Hrs     |
 +       +                                                  +          +
-|       | Databricks login:                                |          |
+|       | - Databricks login:                              |          |
 +       +                                                  +          +
 |       | 1. Sign up for Azure free Trial                  |          |
 |       |                                                  |          |
@@ -27,7 +27,7 @@ PART - I
 +       + Assignment-2 : Launch Azure Databricks workspace +          +
 |       |                                                  |          |
 +-------+--------------------------------------------------+----------+
-| Day 2 | Clusters:                                        | 2Hrs     |
+| Day 2 | - Clusters:                                      | 2Hrs     |
 +       +                                                  +          +
 |       | 1. Display clusters                              |          |
 |       |                                                  |          |
@@ -67,18 +67,18 @@ PART - I
 +-------+--------------------------------------------------+----------+
 |       | Assignment-1:Create cluster for Spark Databricks |          |
 |       | Runtime with different Version                   |          |
-+-------+--------------------------------------------------+----------+
++       +                                                  +          +
 |       | Assignment-2:Create cluster for Spark Databricks |          |
 |       | Runtime with different Python Version            |          |
-+-------+--------------------------------------------------+----------+
++       +                                                  +          +
 |       | Assignment-3:Set the user specific access to     |          |       
 |       | Cluster creation                                 |          | 
-+-------+--------------------------------------------------+----------+
++       +                                                  +          +
 |       | Assignment-4 : Set cluster Autoscaling           |          |
-+-------+--------------------------------------------------+----------+
++       +                                                  +          +
 |       | Assignment-5 : Set Spark configuration to cluster|          |
 +-------+--------------------------------------------------+----------+
-| Day 3 | Workspace:                                       | 2.5Hrs   |
+| Day 3 | - Workspace:                                     | 2.5Hrs   |
 |       |                                                  |          |
 +       + 1. Folders                                       +          +
 |       |                                                  |          |
@@ -86,8 +86,8 @@ PART - I
 +       +                                                  +          +
 |       | 3. Search the Workspace                          |          |
 |       |                                                  |          |
-+-------+--------------------------------------------------+----------+
-|       | Notebooks:                                       |          |
++       +                                                  +          +
+|       | - Notebooks:                                     |          |
 |       |                                                  |          |
 +       + 1. Managing Notebooks                            +          +
 |       |                                                  |          |
@@ -101,11 +101,11 @@ PART - I
 +-------+--------------------------------------------------+----------+
 |       | Assignment-1 :Create your folder in workspace and|          |
 |       | create various notebook for diff. options        |          |
-+-------+--------------------------------------------------+----------+
++       +                                                  +          +
 |       | Assignment-2 : Create notebook for ‘Hello World’ |          |
 |       | python code and run.                             |          |
 +-------+--------------------------------------------------+----------+
-| Day 4 | Accessing data:                                  | 2Hrs     |
+| Day 4 | - Accessing data:                                  | 2Hrs     |
 |       |                                                  |          |
 +       + 1. Import data                                   +          +
 |       |                                                  |          |
@@ -121,11 +121,14 @@ PART - I
 |       |                                                  |          |
 +-------+--------------------------------------------------+----------+
 |       | Assignment-1:Write sample code to read given file|          |
-+-------+--------------------------------------------------+----------+
++       +                                                  +          +
 |       | Assignment-2:Write code to Update/delete the     |          |
 |       |  given file data                                 |          |
++       +                                                  +          +
+|       | Assignment-3:For given file get the all          |          |
+|       | Employee details having salary more than $50000  |          |
 +-------+--------------------------------------------------+----------+
-| Day 5 | Databases & Tables:                              | 2.5Hrs   |
+| Day 5 | - Databases & Tables:                            | 2.5Hrs   |
 |       |                                                  |          |
 +       + 1. View databases and tables                     +          +
 |       |                                                  |          |
@@ -147,36 +150,10 @@ PART - I
 +-------+--------------------------------------------------+----------+
 |       | Assignment-1 : Create test Database and table for|          |
 |       | provided file                                    |          |
-+-------+--------------------------------------------------+----------+
++       +                                                  +          +
 |       | Assignment-2 : Update/Delete table               |          |
 +-------+--------------------------------------------------+----------+
-| Day 6 | Databases & Tables:                              | 3Hrs     |
-|       |                                                  |          |
-+       + 1. Requirements                                  +          +
-|       |                                                  |          |
-|       | 2. View databases and tables                     |          |
-+       +                                                  +          +
-|       | 3. Create a table                                |          |
-|       |                                                  |          |
-+       + 4. Access a table                                +          +
-|       |                                                  |          |
-|       | 5. Update a table                                |          |
-+       +                                                  +          +
-|       | 6. Delete a table                                |          |
-|       |                                                  |          |
-+       + 7. Managed and unmanaged tables                  +          +
-|       |                                                  |          |
-|       | 8. Partitioned tables                            |          |
-+       +                                                  +          +
-|       | 9. Table access control                          |          |
-|       |                                                  |          |
-+-------+--------------------------------------------------+----------+
-|       | Assignment-1 : Create test Database and table for|          |
-|       | provided file                                    |          |
-+-------+--------------------------------------------------+----------+
-|       | Assignment-2 : Update/Delete table               |          |
-+-------+--------------------------------------------------+----------+
-| Day 7 | Libraries:                                       | 3Hrs     |
+| Day 6 | - Libraries:                                     | 3Hrs     |
 |       |                                                  |          |
 +       + 1. Library lifecycle                             +          +
 |       |                                                  |          |
@@ -199,20 +176,19 @@ PART - I
 +-------+--------------------------------------------------+----------+
 |       | Assignment-1 :Upload third party DLL build by you|          |
 |       | in Python and, access in python notebook         |          |
-+-------+--------------------------------------------------+----------+
-|       | Assignment-1 : Upload  python package library    |          |
++       +                                                  +          +
+|       | Assignment-2 : pload  python package library     |          |
 |       | (pandas, fuzzywuzzy  etc), try to consume in code|          |
 +-------+--------------------------------------------------+----------+
-| Day 8 | Databricks Configuration:                        |          |
+| Day 7 | - Databricks Configuration:                      | 3Hrs     |
 |       |                                                  |          |
 +       + 1. Configure the cluster                         +          +
 |       |                                                  |          |
 |       | 2. Spark related configuration                   |          |
 +       +                                                  +          +
 |       | 3. Cluster Scale                                 |          |
-|       |                                                  |          |
-+-------+--------------------------------------------------+----------+
-|       | Security-Manage Access Control:                  |          |
++       +                                                  +          +
+|       | - Security-Manage Access Control:                |          |
 |       |                                                  |          |
 +       + 1. Workspace Access Control                      +          +
 |       |                                                  |          |
@@ -224,7 +200,19 @@ PART - I
 |       |                                                  |          |
 |       | 5. Enable Token-based Authentication             |          |
 +-------+--------------------------------------------------+----------+
-| Day 9 | Jobs:                                            | 3Hrs     |
+|       | Assignment-1 :Configure your spark cluster with  |          |
+|       | given configuration(provide after session)       |          |
++       +                                                  +          +
+|       | Assignment-2 : configure log directory for       |          |
+|       | storing cluster logs                             |          |
++       +                                                  +          +
+|       | Assignment-3 :Add multiple users and manage acce-|          |
+|       | ss to workspace,cluster&job for particular users |          |
++       +                                                  +          +
+|       | Assignment-4 : enable token-based authentication |          |
+|       |                                                  |          |
++-------+--------------------------------------------------+----------+
+| Day 8 | - Jobs:                                          | 3Hrs     |
 |       |                                                  |          |
 +       + 1. View Jobs                                     +          +
 |       |                                                  |          |
@@ -246,8 +234,7 @@ PART - I
 |       |                                                  |          |
 +       + 10. Job options                                  +          +
 |       |                                                  |          |
-+-------+--------------------------------------------------+----------+
-|       | Visualizations:                                  |          |
++       + - Visualizations:                                +          +
 |       |                                                  |          |
 +       + 1. Display function                              +          +
 |       |                                                  |          |
@@ -261,30 +248,18 @@ PART - I
 +       +                                                  +          +
 |       | 6. Visualizations in R                           |          |
 +-------+--------------------------------------------------+----------+
-| Day 10| Databricks Configuration:                        | 2Hrs     |
-|       |                                                  |          |
-+       + 1. Configure the cluster                         +          +
-|       |                                                  |          |
-|       | 2. Spark related configuration                   |          |
+|       | Assignment-1 :Create spark job with different    |          |
+|       | parameters and required libraries.               |          |
 +       +                                                  +          +
-|       | 3. Cluster Scale                                 |          |
-|       |                                                  |          |
-+-------+--------------------------------------------------+----------+
-|       | Security-Manage Access Control:                  |          |
-|       |                                                  |          |
-+       + 1. Workspace Access Control                      +          +
-|       |                                                  |          |
-|       | 2. Cluster Access Control                        |          |
+|       | Assignment-2 : Schedule this job for given time  |          |
+|       | and execute the job.                             |          |
 +       +                                                  +          +
-|       | 3. Jobs Access Control                           |          |
-|       |                                                  |          |
-+       + 4. Table Access Control                          +          +
-|       |                                                  |          |
-|       | 5. Enable Token-based Authentication             |          |
+|       | Assignment-3 :create different visualizations for|          |
+|       | given scala/python/SQL/R notebooks.              |          |
 +-------+--------------------------------------------------+----------+
-| Day 11| Databricks CLI integration                       | 3Hrs     |
+| Day 9 | Databricks CLI integration                       | 3Hrs     |
 +-------+--------------------------------------------------+----------+
-|       | Connecting Business Intelligence Tools:          |          |
+|       | - Connecting Business Intelligence Tools:        |          |
 |       |                                                  |          |
 +       + 1. Connecting BI Tools                           +          +
 |       |                                                  |          |
@@ -295,7 +270,7 @@ PART - I
 +       + 4. SQL Workbench                                 +          +
 |       |                                                  |          |
 +-------+--------------------------------------------------+----------+
-| Day 12| Use Cases - I                                    | 2Hrs     |
+| Day 10| - Use Cases - I                                  | 2Hrs     |
 +       +                                                  +          +
 |       | 1. Sending Email from databricks notebook        |          |
 +       +                                                  +          +
@@ -307,7 +282,7 @@ PART - I
 +       +                                                  +          +
 |       | 5. SAS Connectivity                              |          |
 +-------+--------------------------------------------------+----------+
-| Day 13| Use Cases - II                                   | 3Hrs     |
+| Day 11| - Use Cases - II                                 | 3Hrs     |
 +       +                                                  +          +
 |       | 1. Databrick to AWS + Azure plugin               |          |
 |       |                                                  |          |
@@ -315,14 +290,14 @@ PART - I
 |       |                                                  |          |
 |       | 3. Databricks to Redshift                        |          |
 +-------+--------------------------------------------------+----------+
-| Day 14| Use Cases - III                                  | 3Hrs     |
+| Day 12| - Use Cases - III                                | 3Hrs     |
 +       +                                                  +          +
 |       | 1. Streaming data                                |          |
 |       |                                                  |          |
 +       + 2. How to set up kafka on Databricks             +          +
 |       |                                                  |          |
 +-------+--------------------------------------------------+----------+
-| Day 15| Use Cases - IV                                   |          |
+| Day 13| - Use Cases - IV                                 |          |
 +       +                                                  +          +
 |       | 1. Accelerate ETL                                |          |
 +       +                                                  +          +
