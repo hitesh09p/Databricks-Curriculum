@@ -259,7 +259,7 @@ PART - I
 |       | Assignment-3 :create different visualizations for|          |
 |       | given scala/python/SQL/R notebooks.              |          |
 +-------+--------------------------------------------------+----------+
-| Day 9 | Version Control :                                | 2.5Hrs   |
+| Day 9 | Version Control :                                | 3Hrs     |
 +       +                                                  +          +
 |       | 1. Github Integration with Databricks notebook   |          |
 |       |                                                  |          |
@@ -274,16 +274,11 @@ PART - I
 +       +                                                  +          +
 |       | 2. Clusters API                                  |          |
 +-------+--------------------------------------------------+----------+
-| Day 10| Use Cases - I                                    | 2Hrs     |
+| Day 10| Use Cases - IV                                   | 2Hrs     |
 +       +                                                  +          +
-|       | Connecting Business Intelligence Tools::         |          |
-+       +                                                  +          +
-|       | 1. SQL Workbench                                 |          |
-+       +                                                  +          +
-|       | 2. Tableau / Power BI                            |          |
-|       |                                                  |          |
+|       | Databricks CLI integration                       |          |
 +-------+--------------------------------------------------+----------+
-| Day 11| Use Cases - II                                   | 2Hrs     |
+| Day 11| Use Cases - II                                   | 2.5Hrs   |
 +       +                                                  +          +
 |       | 1. Read/Write files to Azure/AWS storage         |          |
 |       |                                                  |          |
@@ -295,7 +290,40 @@ PART - I
 |       | ETL Process                                      |          |
 |       |                                                  |          |
 +-------+--------------------------------------------------+----------+
-| Day 13| Use Cases - IV                                   | 2Hrs     |
+| Day 13| Use Cases - I                                    | 2Hrs     |
 +       +                                                  +          +
-|       | Databricks CLI integration                       |          |
+|       | Connecting Business Intelligence Tools::         |          |
++       +                                                  +          +
+|       | 1. SQL Workbench                                 |          |
++       +                                                  +          +
+|       | 2. Tableau / Power BI                            |          |
+|       |                                                  |          |
++-------+--------------------------------------------------+----------+
+| Day 14| Use Cases - V                                    | 2.5Hrs   |
++       +                                                  +          +
+|       | DeltaLake                                        |          |
++-------+--------------------------------------------------+----------+
+| Day 15| Use Cases - VI                                   | 2.5Hrs   |
++       +                                                  +          +
+|       | Dataframe/Dataset                                |          |
++-------+--------------------------------------------------+----------+
+| Day 16| Use Cases - VII                                  | 2.5Hrs   |
++       +                                                  +          +
+|       | MLflow                                           |          |
++-------+--------------------------------------------------+----------+
+| Day 17| Use Cases - VIII                                 | 2.5Hrs   |
++       +                                                  +          +
+|       | Azure Data Factory and Databricks integration    |          |
++-------+--------------------------------------------------+----------+
+| Day 19| Use Cases - IX                                   | 2.5Hrs   |
++       +                                                  +          +
+|       | Structured Streaming(Databricks + Kafka)         |          |
++-------+--------------------------------------------------+----------+
+| Day 20| Use Cases - X                                    | 2.5Hrs   |
++       +                                                  +          +
+|       | Scheduling & workflow(Databricks + Airflow       |          |
++-------+--------------------------------------------------+----------+
+| Day 21| Use Cases - XI                                   | 2.5Hrs   |
++       +                                                  +          +
+|       | Administration & Support                         |          |
 +-------+--------------------------------------------------+----------+
