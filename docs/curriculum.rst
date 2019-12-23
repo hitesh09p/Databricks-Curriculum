@@ -155,7 +155,7 @@ PART - I
 |       | Assignment-2 : Update/Delete table               |          |
 |       |                                                  |          |
 +-------+--------------------------------------------------+----------+
-| Day 6 | Libraries:                                       | 2.5Hrs     |
+| Day 6 | Libraries:                                       | 2.5Hrs   |
 |       |                                                  |          |
 +       + 1. Library lifecycle                             +          +
 |       |                                                  |          |
@@ -182,7 +182,7 @@ PART - I
 |       | Assignment-2 : pload  python package library     |          |
 |       | (pandas, fuzzywuzzy  etc), try to consume in code|          |
 +-------+--------------------------------------------------+----------+
-| Day 7 | Databricks Configuration:                        | 2.5Hrs     |
+| Day 7 | Databricks Configuration:                        | 2.5Hrs   |
 |       |                                                  |          |
 +       + 1. Configure the cluster                         +          +
 |       |                                                  |          |
@@ -274,7 +274,7 @@ PART - I
 +       +                                                  +          +
 |       | 2. Clusters API                                  |          |
 +-------+--------------------------------------------------+----------+
-| Day 11| Use Cases - I                                    | 2Hrs     |
+| Day 10| Use Cases - I                                    | 2Hrs     |
 +       +                                                  +          +
 |       | Connecting Business Intelligence Tools::         |          |
 +       +                                                  +          +
@@ -283,19 +283,19 @@ PART - I
 |       | 2. Tableau / Power BI                            |          |
 |       |                                                  |          |
 +-------+--------------------------------------------------+----------+
-| Day 12| Use Cases - II                                   | 2Hrs     |
+| Day 11| Use Cases - II                                   | 2Hrs     |
 +       +                                                  +          +
 |       | 1. Read/Write files to Azure/AWS storage         |          |
 |       |                                                  |          |
 +       + 2. Connecting to SQL Databases using JDBC        +          +
 |       |                                                  |          |
 +-------+--------------------------------------------------+----------+
-| Day 13| Use Cases - III                                  | 2Hrs     |
+| Day 12| Use Cases - III                                  | 2Hrs     |
 +       +                                                  +          +
 |       | ETL Process                                      |          |
 |       |                                                  |          |
 +-------+--------------------------------------------------+----------+
-| Day 14| Use Cases - IV                                   | 2Hrs     |
+| Day 13| Use Cases - IV                                   | 2Hrs     |
 +       +                                                  +          +
 |       | Databricks CLI integration                       |          |
 +-------+--------------------------------------------------+----------+
