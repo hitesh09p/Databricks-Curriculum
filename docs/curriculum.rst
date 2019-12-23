@@ -7,7 +7,9 @@ Course Curriculum
         :Duration: 21 days/ 48Hrs 
         :Description: Azure Databricks
         :Objective: In-depth Understanding of Databricks with real time usecases.  
-        :Pre-Requisite: Basic understanding of cloud infrastructure And cluster computing 
+        :Pre-Requisite: Basic understanding of cloud infrastructure And cluster computing.Intermediate Python and Spark/Scala,
+                        Azure/AWS (S3, Redshift, Azure Blob Storage, Azure Data Lake Storage, Azure SQL Data warehouse),
+                        Hadoop/Hive
         :Training-Methodology: Online training
         
 ------------
