@@ -22,7 +22,7 @@ Course Curriculum
 +=======+==================================================+==========+
 | Day 1 | Introduction to Databricks                       | 2.5Hrs   |
 +       +                                                  +          +
-|       | - Databricks login:                              |          |
+|       |  Databricks login:                               |          |
 +       +                                                  +          +
 |       | 1. Sign up for Azure free Trial                  |          |
 |       |                                                  |          |
