@@ -322,7 +322,7 @@ Course Curriculum
 +       +                                                  +          +
 |       | Dataframe/Dataset                                |          |
 +-------+--------------------------------------------------+----------+
-| Day 18 | Revision 3rd Week                                | 2.5Hrs   |
+| Day 18 | Revision 3rd Week                               | 2.5Hrs   |
 +       +                                                  +          +
 | Day 19| Use Cases - VII                                  | 2.5Hrs   |
 +       +                                                  +          +
@@ -345,4 +345,4 @@ Course Curriculum
 |       | Administration & Support                         |          |
 +-------+--------------------------------------------------+----------+
 | Day 24| Revision 4th Week                                | 2.5Hrs   |
-+       +                                                  +          +
++-------+--------------------------------------------------+----------+
