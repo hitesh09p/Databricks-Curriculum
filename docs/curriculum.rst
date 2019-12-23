@@ -291,7 +291,7 @@ Course Curriculum
 +       +                                                  +          +
 |       | Databricks CLI integration                       |          |
 +-------+--------------------------------------------------+----------+
-| Day 12 | Revision 2nd Week                               | 2.5Hrs   |
+| Day 12| Revision 2nd Week                                | 2.5Hrs   |
 +-------+--------------------------------------------------+----------+
 | Day 13| Use Cases - II                                   | 2.5Hrs   |
 +       +                                                  +          +
@@ -322,7 +322,7 @@ Course Curriculum
 +       +                                                  +          +
 |       | Dataframe/Dataset                                |          |
 +-------+--------------------------------------------------+----------+
-| Day 18 | Revision 3rd Week                               | 2.5Hrs   |
+| Day 18| Revision 3rd Week                                | 2.5Hrs   |
 +-------+--------------------------------------------------+----------+
 | Day 19| Use Cases - VII                                  | 2.5Hrs   |
 +       +                                                  +          +
