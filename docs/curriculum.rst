@@ -155,7 +155,7 @@ PART - I
 |       | Assignment-2 : Update/Delete table               |          |
 |       |                                                  |          |
 +-------+--------------------------------------------------+----------+
-| Day 6 | Libraries:                                       | 3Hrs     |
+| Day 6 | Libraries:                                       | 2.5Hrs     |
 |       |                                                  |          |
 +       + 1. Library lifecycle                             +          +
 |       |                                                  |          |
@@ -182,7 +182,7 @@ PART - I
 |       | Assignment-2 : pload  python package library     |          |
 |       | (pandas, fuzzywuzzy  etc), try to consume in code|          |
 +-------+--------------------------------------------------+----------+
-| Day 7 | Databricks Configuration:                        | 3Hrs     |
+| Day 7 | Databricks Configuration:                        | 2.5Hrs     |
 |       |                                                  |          |
 +       + 1. Configure the cluster                         +          +
 |       |                                                  |          |
@@ -259,7 +259,7 @@ PART - I
 |       | Assignment-3 :create different visualizations for|          |
 |       | given scala/python/SQL/R notebooks.              |          |
 +-------+--------------------------------------------------+----------+
-| Day 9 | Version Control :                                | 1Hrs     |
+| Day 9 | Version Control :                                | 2.5Hrs   |
 +       +                                                  +          +
 |       | 1. Github Integration with Databricks notebook   |          |
 |       |                                                  |          |
@@ -267,7 +267,7 @@ PART - I
 |       | Assingment-1 : Bitbucket Integration with        |          |
 |       | Databricks notebook                              |          |
 +-------+--------------------------------------------------+----------+
-| Day 10| REST API :                                       | 1.5Hrs   |
+|       | REST API :                                       |          |
 +       +                                                  +          +
 |       | 1. DBFS API                                      |          |
 |       |                                                  |          |
