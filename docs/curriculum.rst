@@ -4,7 +4,7 @@ Course Curriculum
 
 ------------
 
-        :Duration: 21 days/ 48Hrs 
+        :Duration: 24 days/ 61Hrs 
         :Description: Azure Databricks
         :Objective: In-depth Understanding of Databricks with real time usecases.  
         :Pre-Requisite: Basic understanding of cloud infrastructure And cluster computing.Intermediate Python and Spark/Scala,
@@ -20,7 +20,7 @@ Course Curriculum
 | Day   | Topics                                           | Duration |
 |       |                                                  |          |
 +=======+==================================================+==========+
-| Day 1 | Introduction to Databricks                       | 2Hrs     |
+| Day 1 | Introduction to Databricks                       | 2.5Hrs   |
 +       +                                                  +          +
 |       | - Databricks login:                              |          |
 +       +                                                  +          +
@@ -38,7 +38,7 @@ Course Curriculum
 +       + Assignment-2 : Launch Azure Databricks workspace +          +
 |       |                                                  |          |
 +-------+--------------------------------------------------+----------+
-| Day 2 | Clusters:                                        | 2Hrs     |
+| Day 2 | Clusters:                                        | 2.5Hrs   |
 +       +                                                  +          +
 |       | 1. Display clusters                              |          |
 |       |                                                  |          |
@@ -117,7 +117,7 @@ Course Curriculum
 |       | Assignment-2 : Create notebook for ‘Hello World’ |          |
 |       | python code and run.                             |          |
 +-------+--------------------------------------------------+----------+
-| Day 4 | Accessing data:                                  | 2Hrs     |
+| Day 4 | Accessing data:                                  | 2.5Hrs   |
 |       |                                                  |          |
 +       + 1. Import data                                   +          +
 |       |                                                  |          |
@@ -166,7 +166,9 @@ Course Curriculum
 |       | Assignment-2 : Update/Delete table               |          |
 |       |                                                  |          |
 +-------+--------------------------------------------------+----------+
-| Day 6 | Libraries:                                       | 2.5Hrs   |
+| Day 6 | Revision 1st Week                                | 2.5Hrs   |
++       +                                                  +          +
+| Day 7 | Libraries:                                       | 2.5Hrs   |
 |       |                                                  |          |
 +       + 1. Library lifecycle                             +          +
 |       |                                                  |          |
@@ -193,7 +195,7 @@ Course Curriculum
 |       | Assignment-2 : pload  python package library     |          |
 |       | (pandas, fuzzywuzzy  etc), try to consume in code|          |
 +-------+--------------------------------------------------+----------+
-| Day 7 | Databricks Configuration:                        | 2.5Hrs   |
+| Day 8 | Databricks Configuration:                        | 2.5Hrs   |
 |       |                                                  |          |
 +       + 1. Configure the cluster                         +          +
 |       |                                                  |          |
@@ -225,7 +227,7 @@ Course Curriculum
 |       | Assignment-4 : enable token-based authentication |          |
 |       |                                                  |          |
 +-------+--------------------------------------------------+----------+
-| Day 8 | Jobs:                                            | 3Hrs     |
+| Day 9 | Jobs:                                            | 3Hrs     |
 |       |                                                  |          |
 +       + 1. View Jobs                                     +          +
 |       |                                                  |          |
@@ -270,7 +272,7 @@ Course Curriculum
 |       | Assignment-3 :create different visualizations for|          |
 |       | given scala/python/SQL/R notebooks.              |          |
 +-------+--------------------------------------------------+----------+
-| Day 9 | Version Control :                                | 3Hrs     |
+| Day 10| Version Control :                                | 3Hrs     |
 +       +                                                  +          +
 |       | 1. Github Integration with Databricks notebook   |          |
 |       |                                                  |          |
@@ -285,23 +287,25 @@ Course Curriculum
 +       +                                                  +          +
 |       | 2. Clusters API                                  |          |
 +-------+--------------------------------------------------+----------+
-| Day 10| Use Cases - I                                    | 2Hrs     |
+| Day 11| Use Cases - I                                    | 2.5Hrs   |
 +       +                                                  +          +
 |       | Databricks CLI integration                       |          |
 +-------+--------------------------------------------------+----------+
-| Day 11| Use Cases - II                                   | 2.5Hrs   |
+| Day 12 | Revision 2nd Week                               | 2.5Hrs   |
++       +                                                  +          +
+| Day 13| Use Cases - II                                   | 2.5Hrs   |
 +       +                                                  +          +
 |       | 1. Read/Write files to Azure/AWS storage         |          |
 |       |                                                  |          |
 +       + 2. Connecting to SQL Databases using JDBC        +          +
 |       |                                                  |          |
 +-------+--------------------------------------------------+----------+
-| Day 12| Use Cases - III                                  | 2Hrs     |
+| Day 14| Use Cases - III                                  | 2.5Hrs   |
 +       +                                                  +          +
 |       | ETL Process                                      |          |
 |       |                                                  |          |
 +-------+--------------------------------------------------+----------+
-| Day 13| Use Cases - IV                                   | 2Hrs     |
+| Day 15| Use Cases - IV                                   | 2.5Hrs   |
 +       +                                                  +          +
 |       | Connecting Business Intelligence Tools::         |          |
 +       +                                                  +          +
@@ -310,31 +314,35 @@ Course Curriculum
 |       | 2. Tableau / Power BI                            |          |
 |       |                                                  |          |
 +-------+--------------------------------------------------+----------+
-| Day 14| Use Cases - V                                    | 2.5Hrs   |
+| Day 16| Use Cases - V                                    | 2.5Hrs   |
 +       +                                                  +          +
 |       | DeltaLake                                        |          |
 +-------+--------------------------------------------------+----------+
-| Day 15| Use Cases - VI                                   | 2.5Hrs   |
+| Day 17| Use Cases - VI                                   | 2.5Hrs   |
 +       +                                                  +          +
 |       | Dataframe/Dataset                                |          |
 +-------+--------------------------------------------------+----------+
-| Day 16| Use Cases - VII                                  | 2.5Hrs   |
+| Day 18 | Revision 3rd Week                                | 2.5Hrs   |
++       +                                                  +          +
+| Day 19| Use Cases - VII                                  | 2.5Hrs   |
 +       +                                                  +          +
 |       | MLflow                                           |          |
 +-------+--------------------------------------------------+----------+
-| Day 17| Use Cases - VIII                                 | 2.5Hrs   |
+| Day 20| Use Cases - VIII                                 | 2.5Hrs   |
 +       +                                                  +          +
 |       | Azure Data Factory and Databricks integration    |          |
 +-------+--------------------------------------------------+----------+
-| Day 19| Use Cases - IX                                   | 2.5Hrs   |
+| Day 21| Use Cases - IX                                   | 2.5Hrs   |
 +       +                                                  +          +
 |       | Structured Streaming(Databricks + Kafka)         |          |
 +-------+--------------------------------------------------+----------+
-| Day 20| Use Cases - X                                    | 2.5Hrs   |
+| Day 22| Use Cases - X                                    | 2.5Hrs   |
 +       +                                                  +          +
 |       | Scheduling & workflow(Databricks + Airflow       |          |
 +-------+--------------------------------------------------+----------+
-| Day 21| Use Cases - XI                                   | 2.5Hrs   |
+| Day 23| Use Cases - XI                                   | 2.5Hrs   |
 +       +                                                  +          +
 |       | Administration & Support                         |          |
 +-------+--------------------------------------------------+----------+
+| Day 24| Revision 4th Week                                | 2.5Hrs   |
++       +                                                  +          +
